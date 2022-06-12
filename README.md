@@ -3,7 +3,7 @@
 As I work through this list I figure I would make a GitHub repo with my solutions along with articles and videos that relate to the problems that I've found helpful. 
 
 ## The problems
-1. Two Sum
+1. [Two Sum](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/twosum-1.md)
 2. Valid Parentheses
 3. Merge Two Sorted Lists
 4. Best Time to Buy and Sell Stock
