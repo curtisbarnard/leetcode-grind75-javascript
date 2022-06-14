@@ -6,7 +6,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 
 1. [Two Sum](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/twosum-1.md)
 2. [Valid Parentheses](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-parentheses-20.md)
-3. Merge Two Sorted Lists
+3. [Merge Two Sorted Lists](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/merge-two-sorted-lists-21.md)
 4. Best Time to Buy and Sell Stock
 5. Valid Palindrome
 6. Invert Binary Tree
@@ -88,9 +88,13 @@ In order to practice with similar data structures I'll be placing each problem i
 
 1. [Two Sum](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/twosum-1.md)
 
-## Stack
+### Stack
 
 2. [Valid Parentheses](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-parentheses-20.md)
+
+### Linked Lists
+
+3. [Merge Two Sorted Lists](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/merge-two-sorted-lists-21.md)
 
 ### Hash Table
 
