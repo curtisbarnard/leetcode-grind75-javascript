@@ -1,10 +1,11 @@
 # Grind75 Solutions & Resources: JavaScript
 
-As I work through this list I figure I would make a GitHub repo with my solutions along with articles and videos that relate to the problems that I've found helpful. 
+As I work through this list I figure I would make a GitHub repo with my solutions along with articles and videos that relate to the problems that I've found helpful.
 
 ## The problems
+
 1. [Two Sum](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/twosum-1.md)
-2. Valid Parentheses
+2. [Valid Parentheses](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-parentheses-20.md)
 3. Merge Two Sorted Lists
 4. Best Time to Buy and Sell Stock
 5. Valid Palindrome
@@ -79,17 +80,25 @@ As I work through this list I figure I would make a GitHub repo with my solution
 74. Merge k Sorted Lists
 75. Largest Rectangle in Histogram
 
-
 ## Data Structures
+
 In order to practice with similar data structures I'll be placing each problem in the categories below, along with some similar problems nested below to help practice with those data structures.
 
 ### Array
+
 1. [Two Sum](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/twosum-1.md)
+
+## Stack
+
+2. [Valid Parentheses](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-parentheses-20.md)
 
 ### Hash Table
+
 1. [Two Sum](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/twosum-1.md)
+2. [Valid Parentheses](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-parentheses-20.md)
 
 ## Algorithm Patterns
+
 Within the problems above there are several patterns that often occur. I plan to categorize each problem such that if you are having problem with a particular pattern you can look for other similar problems that use the same pattern.
 
 ### Sliding Window
@@ -120,8 +129,7 @@ Within the problems above there are several patterns that often occur. I plan to
 
 ### Topological Sort
 
-
-
 ## Attribution
+
 - The original Grind 75 list can be found [here](https://www.techinterviewhandbook.org/grind75)
 - The original list of patterns was sourced from [here](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
