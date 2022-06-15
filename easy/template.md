@@ -1,4 +1,4 @@
-# Two Sum
+# Problem Name
 
 Page on leetcode:
 

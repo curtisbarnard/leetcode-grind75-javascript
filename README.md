@@ -4,6 +4,8 @@ As I work through this list I figure I would make a GitHub repo with my solution
 
 ## The problems
 
+### Easy
+
 1. [Two Sum](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/twosum-1.md)
 2. [Valid Parentheses](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-parentheses-20.md)
 3. [Merge Two Sorted Lists](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/merge-two-sorted-lists-21.md)
@@ -30,6 +32,9 @@ As I work through this list I figure I would make a GitHub repo with my solution
 24. Middle of the Linked List
 25. Maximum Depth of Binary Tree
 26. Contains Duplicate
+
+### Medium
+
 27. Insert Interval
 28. 01 Matrix
 29. K Closest Points to Origin
@@ -70,6 +75,9 @@ As I work through this list I figure I would make a GitHub repo with my solution
 64. Task Scheduler
 65. LRU Cache
 66. Kth Smallest Element in a BST
+
+### Hard
+
 67. Minimum Window Substring
 68. Serialize and Deserialize Binary Tree
 69. Trapping Rain Water
@@ -94,7 +102,11 @@ In order to practice with similar data structures I'll be placing each problem i
 
 ### Linked Lists
 
+#### Easy
+
 3. [Merge Two Sorted Lists](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/merge-two-sorted-lists-21.md)
+
+- [Convert Binary Number in a Linked List to Integer](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/binary-linked-list-1290.md)
 
 ### Hash Table
 
