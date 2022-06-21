@@ -9,7 +9,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 1. [Two Sum](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/twosum-1.md)
 2. [Valid Parentheses](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-parentheses-20.md)
 3. [Merge Two Sorted Lists](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/merge-two-sorted-lists-21.md)
-4. Best Time to Buy and Sell Stock
+4. [Best Time to Buy and Sell Stock](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/buy-sell-stock-121.md)
 5. Valid Palindrome
 6. Invert Binary Tree
 7. Valid Anagram
@@ -95,6 +95,7 @@ In order to practice with similar data structures I'll be placing each problem i
 ### Array
 
 1. [Two Sum](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/twosum-1.md)
+2. [Best Time to Buy and Sell Stock](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/buy-sell-stock-121.md)
 
 ### Stack
 
@@ -120,6 +121,8 @@ Within the problems above there are several patterns that often occur. I plan to
 ### Sliding Window
 
 ### Two Pointers
+
+4. [Best Time to Buy and Sell Stock](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/buy-sell-stock-121.md)
 
 ### Fast & Slow Pointers
 
