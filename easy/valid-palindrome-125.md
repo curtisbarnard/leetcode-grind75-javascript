@@ -59,6 +59,49 @@ const isPalindrome = function (s) {
 
 ### Optimized Solution
 
-```javascript
+The optimized solution has a time complexity of O(n).You can watch an explanation of the solution at: https://youtu.be/jJXJ16kPFWg as well as see the discussion of the Javascript solution at: https://leetcode.com/problems/valid-palindrome/discuss/40238/128ms-100-JavaScript-solution-super-easy-to-understand
 
+```javascript
+const isPalindrome = function (s) {
+  // Initial pointer values
+  let left = 0;
+  let right = s.length - 1;
+
+  while (left < right) {
+    let leftCode = s.charCodeAt(left);
+    let rightCode = s.charCodeAt(right);
+
+    // Passing over non-AlphaNum characters
+    if (!checkAlphaNum(leftCode)) {
+      left++;
+      continue;
+    }
+    if (!checkAlphaNum(rightCode)) {
+      right--;
+      continue;
+    }
+
+    // If both characters are alphanumeric check that they are the same as lowercase
+    if (s[left].toLowerCase() !== s[right].toLowerCase()) {
+      return false;
+    }
+
+    left++;
+    right--;
+  }
+  return true;
+
+  // Helper function for checking is a character is alphanumeric
+  function checkAlphaNum(charCode) {
+    if (97 <= charCode && charCode <= 122) {
+      return true;
+    } else if (65 <= charCode && charCode <= 90) {
+      return true;
+    } else if (48 <= charCode && charCode <= 57) {
+      return true;
+    } else {
+      return false;
+    }
+  }
+};
 ```
