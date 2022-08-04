@@ -11,7 +11,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 3. [Merge Two Sorted Lists #21](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/merge-two-sorted-lists-21.md)
 4. [Best Time to Buy and Sell Stock #121](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/buy-sell-stock-121.md)
 5. [Valid Palindrome #125](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-palindrome-125.md)
-6. Invert Binary Tree
+6. [Invert Binary Tree](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
 7. Valid Anagram
 8. Binary Search
 9. Flood Fill
@@ -97,13 +97,16 @@ In order to practice with similar data structures I'll be placing each problem i
 1. [Two Sum](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/twosum-1.md)
 2. [Best Time to Buy and Sell Stock](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/buy-sell-stock-121.md)
 
+### Queue
+
+6. [Invert Binary Tree](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
+
 ### Stack
 
 2. [Valid Parentheses](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-parentheses-20.md)
+3. [Invert Binary Tree](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
 
 ### Linked Lists
-
-#### Easy
 
 3. [Merge Two Sorted Lists](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/merge-two-sorted-lists-21.md)
 
@@ -135,7 +138,11 @@ Within the problems above there are several patterns that often occur. I plan to
 
 ### Tree Breadth First Search
 
+6. [Invert Binary Tree](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
+
 ### Tree Depth First Search
+
+6. [Invert Binary Tree](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
 
 ### Two Heaps
 
