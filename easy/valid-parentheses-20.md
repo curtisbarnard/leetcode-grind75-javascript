@@ -1,6 +1,6 @@
 # Valid Parentheses
 
-Page on leetcode: https://leetcode.com/problems/two-sum/
+Page on leetcode: https://leetcode.com/problems/valid-parentheses/
 
 ## Problem Statement
 
