@@ -72,7 +72,8 @@ There are three ways to approach the solution: recursion, Depth First Search and
 
 A video explaining the recursive solution can be seen here: https://www.youtube.com/watch?v=OnSn2XEQ4MY
 
-To see an explanation of the difference between DFS and BFS see this video: https://www.youtube.com/watch?v=pcKY4hjDrxk
+To see an explanation of the difference between DFS and BFS see these videos: https://www.youtube.com/watch?v=pcKY4hjDrxk
+https://youtu.be/tWVWeAqZ0WU?t=430
 
 ```javascript
 // Recursion
