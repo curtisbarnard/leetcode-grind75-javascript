@@ -1,4 +1,4 @@
-# Two Sum
+# Merge Two Sorted List
 
 Page on leetcode: https://leetcode.com/problems/merge-two-sorted-lists/
 
