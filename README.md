@@ -14,7 +14,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 6. [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
 7. [Valid Anagram #242](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-anagram-242.md)
 8. [Binary Search #704](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/binary-search-704.md)
-9. Flood Fill #733
+9. [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
 10. Maximum Subarray #53
 11. Lowest Common Ancestor of a Binary Search Tree #235
 12. Balanced Binary Tree #110
@@ -97,15 +97,18 @@ In order to practice with similar data structures I'll be placing each problem i
 1. [Two Sum #1](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/twosum-1.md)
 2. [Best Time to Buy and Sell Stock #121](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/buy-sell-stock-121.md)
 3. [Binary Search #704](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/binary-search-704.md)
+4. [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
 
 ### Queue
 
 6. [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
+7. [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
 
 ### Stack
 
 2. [Valid Parentheses #20](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-parentheses-20.md)
 3. [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
+4. [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
 
 ### Linked Lists
 
@@ -141,10 +144,12 @@ Within the problems above there are several patterns that often occur. I plan to
 ### Tree Breadth First Search
 
 6. [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
+7. [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
 
 ### Tree Depth First Search
 
 6. [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
+7. [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
 
 ### Two Heaps
 
