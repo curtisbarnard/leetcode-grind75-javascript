@@ -13,7 +13,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 5. [Valid Palindrome #125](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-palindrome-125.md)
 6. [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
 7. [Valid Anagram #242](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-anagram-242.md)
-8. Binary Search #704
+8. [Binary Search #704](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/binary-search-704.md)
 9. Flood Fill #733
 10. Maximum Subarray #53
 11. Lowest Common Ancestor of a Binary Search Tree #235
@@ -96,6 +96,7 @@ In order to practice with similar data structures I'll be placing each problem i
 
 1. [Two Sum #1](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/twosum-1.md)
 2. [Best Time to Buy and Sell Stock #121](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/buy-sell-stock-121.md)
+3. [Binary Search #704](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/binary-search-704.md)
 
 ### Queue
 
