@@ -15,25 +15,25 @@ As I work through this list I figure I would make a GitHub repo with my solution
 7. [Valid Anagram #242](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-anagram-242.md)
 8. [Binary Search #704](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/binary-search-704.md)
 9. [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
-10. Maximum Subarray #53
-11. Lowest Common Ancestor of a Binary Search Tree #235
-12. Balanced Binary Tree #110
-13. Linked List Cycle #141
-14. Implement Queue using Stacks #232
-15. First Bad Version #278
-16. Ransom Note #383
-17. Climbing Stairs #70
-18. Longest Palindrome #409
-19. Reverse Linked List #206
-20. Majority Element #169
-21. Add Binary #67
-22. Diameter of Binary Tree #543
-23. Middle of the Linked List #876
-24. Maximum Depth of Binary Tree #104
-25. Contains Duplicate #217
+10. Lowest Common Ancestor of a Binary Search Tree #235
+11. Balanced Binary Tree #110
+12. Linked List Cycle #141
+13. Implement Queue using Stacks #232
+14. First Bad Version #278
+15. Ransom Note #383
+16. Climbing Stairs #70
+17. Longest Palindrome #409
+18. Reverse Linked List #206
+19. Majority Element #169
+20. Add Binary #67
+21. Diameter of Binary Tree #543
+22. Middle of the Linked List #876
+23. Maximum Depth of Binary Tree #104
+24. Contains Duplicate #217
 
 ### Medium
 
+25. [Maximum Subarray #53](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/maximum-subarray-53.md)
 26. Insert Interval #57
 27. 01 Matrix #542
 28. K Closest Points to Origin #973
@@ -98,6 +98,7 @@ In order to practice with similar data structures I'll be placing each problem i
 2. [Best Time to Buy and Sell Stock #121](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/buy-sell-stock-121.md)
 3. [Binary Search #704](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/binary-search-704.md)
 4. [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
+5. [Maximum Subarray #53](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/maximum-subarray-53.md)
 
 ### Queue
 
@@ -126,20 +127,10 @@ In order to practice with similar data structures I'll be placing each problem i
 
 Within the problems above there are several patterns that often occur. I plan to categorize each problem such that if you are having problem with a particular pattern you can look for other similar problems that use the same pattern.
 
-### Sliding Window
-
 ### Two Pointers
 
 4. [Best Time to Buy and Sell Stock #121](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/buy-sell-stock-121.md)
 5. [Valid Palindrome #125](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-palindrome-125.md)
-
-### Fast & Slow Pointers
-
-### Merge Intervals
-
-### Cyclic Sort
-
-### In-place Reversal of Linked List
 
 ### Tree Breadth First Search
 
@@ -151,19 +142,14 @@ Within the problems above there are several patterns that often occur. I plan to
 6. [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
 7. [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
 
-### Two Heaps
+### Divide & Conquer
 
-### Subsets
+25. [Maximum Subarray #53](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/maximum-subarray-53.md)
 
-### Modified Binary Search
+### Dynamic Programming
 
-### Top K Elements
-
-### K-Way Merge
-
-### Topological Sort
+25. [Maximum Subarray #53](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/maximum-subarray-53.md)
 
 ## Attribution
 
 - The original Grind 75 list can be found [here](https://www.techinterviewhandbook.org/grind75)
-- The original list of patterns was sourced from [here](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
