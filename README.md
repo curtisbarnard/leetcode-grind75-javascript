@@ -18,7 +18,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 10. [Lowest Common Ancestor of a Binary Search Tree #235](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/lowest-common-ancestor-235.md)
 11. [Balanced Binary Tree #110](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/balanced-binary-tree-110.md)
 12. [Linked List Cycle #141](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/linked-list-cycle-141.md)
-13. Implement Queue using Stacks #232
+13. [Implement Queue using Stacks #232](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/implement-queue-stacks-232.md)
 14. First Bad Version #278
 15. Ransom Note #383
 16. Climbing Stairs #70
@@ -104,12 +104,14 @@ In order to practice with similar data structures I'll be placing each problem i
 
 - [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
 - [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
+- [Implement Queue using Stacks #232](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/implement-queue-stacks-232.md)
 
 ### Stack
 
 - [Valid Parentheses #20](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-parentheses-20.md)
 - [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
 - [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
+- [Implement Queue using Stacks #232](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/implement-queue-stacks-232.md)
 
 ### Linked Lists
 
