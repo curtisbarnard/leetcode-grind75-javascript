@@ -20,7 +20,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 12. [Linked List Cycle #141](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/linked-list-cycle-141.md)
 13. [Implement Queue using Stacks #232](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/implement-queue-stacks-232.md)
 14. [First Bad Version #278](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/first-bad-version-278.md)
-15. Ransom Note #383
+15. [Ransom Note #383](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/ransom-note-383.md)
 16. Climbing Stairs #70
 17. Longest Palindrome #409
 18. Reverse Linked List #206
@@ -125,6 +125,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Valid Parentheses #20](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-parentheses-20.md)
 - [Valid Anagram #242](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-anagram-242.md)
 - [Linked List Cycle #141](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/linked-list-cycle-141.md)
+- [Ransom Note #383](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/ransom-note-383.md)
 
 ### Binary Tree
 
