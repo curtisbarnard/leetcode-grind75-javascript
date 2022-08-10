@@ -19,7 +19,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 11. [Balanced Binary Tree #110](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/balanced-binary-tree-110.md)
 12. [Linked List Cycle #141](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/linked-list-cycle-141.md)
 13. [Implement Queue using Stacks #232](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/implement-queue-stacks-232.md)
-14. First Bad Version #278
+14. [First Bad Version #278](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/first-bad-version-278.md)
 15. Ransom Note #383
 16. Climbing Stairs #70
 17. Longest Palindrome #409
@@ -146,6 +146,10 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Best Time to Buy and Sell Stock #121](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/buy-sell-stock-121.md)
 - [Valid Palindrome #125](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-palindrome-125.md)
 - [Linked List Cycle #141](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/linked-list-cycle-141.md)
+
+### Binary Search
+
+- [First Bad Version #278](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/first-bad-version-278.md)
 
 ### Tree Breadth First Search
 
