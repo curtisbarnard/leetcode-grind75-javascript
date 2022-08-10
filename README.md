@@ -17,7 +17,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 9. [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
 10. [Lowest Common Ancestor of a Binary Search Tree #235](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/lowest-common-ancestor-235.md)
 11. [Balanced Binary Tree #110](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/balanced-binary-tree-110.md)
-12. Linked List Cycle #141
+12. [Linked List Cycle #141](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/linked-list-cycle-141.md)
 13. Implement Queue using Stacks #232
 14. First Bad Version #278
 15. Ransom Note #383
@@ -115,12 +115,14 @@ In order to practice with similar data structures I'll be placing each problem i
 
 - [Merge Two Sorted Lists #21](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/merge-two-sorted-lists-21.md)
 - [Convert Binary Number in a Linked List to Integer #1290](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/binary-linked-list-1290.md)
+- [Linked List Cycle #141](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/linked-list-cycle-141.md)
 
 ### Hash Table
 
 - [Two Sum #1](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/twosum-1.md)
 - [Valid Parentheses #20](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-parentheses-20.md)
 - [Valid Anagram #242](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-anagram-242.md)
+- [Linked List Cycle #141](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/linked-list-cycle-141.md)
 
 ### Binary Tree
 
@@ -136,6 +138,7 @@ Within the problems above there are several patterns that often occur. I plan to
 
 - [Best Time to Buy and Sell Stock #121](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/buy-sell-stock-121.md)
 - [Valid Palindrome #125](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-palindrome-125.md)
+- [Linked List Cycle #141](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/linked-list-cycle-141.md)
 
 ### Tree Breadth First Search
 
