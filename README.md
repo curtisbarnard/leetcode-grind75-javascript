@@ -15,7 +15,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 7. [Valid Anagram #242](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-anagram-242.md)
 8. [Binary Search #704](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/binary-search-704.md)
 9. [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
-10. Lowest Common Ancestor of a Binary Search Tree #235
+10. [Lowest Common Ancestor of a Binary Search Tree #235](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/lowest-common-ancestor-235.md)
 11. Balanced Binary Tree #110
 12. Linked List Cycle #141
 13. Implement Queue using Stacks #232
@@ -123,6 +123,11 @@ In order to practice with similar data structures I'll be placing each problem i
 2. [Valid Parentheses #20](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-parentheses-20.md)
 3. [Valid Anagram #242](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-anagram-242.md)
 
+### Binary Tree
+
+3. [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
+4. [Lowest Common Ancestor of a Binary Search Tree #235](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/lowest-common-ancestor-235.md)
+
 ## Algorithm Patterns
 
 Within the problems above there are several patterns that often occur. I plan to categorize each problem such that if you are having problem with a particular pattern you can look for other similar problems that use the same pattern.
@@ -141,6 +146,7 @@ Within the problems above there are several patterns that often occur. I plan to
 
 6. [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
 7. [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
+8. [Lowest Common Ancestor of a Binary Search Tree #235](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/lowest-common-ancestor-235.md)
 
 ### Divide & Conquer
 
