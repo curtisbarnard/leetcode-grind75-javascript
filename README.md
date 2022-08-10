@@ -130,6 +130,11 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Lowest Common Ancestor of a Binary Search Tree #235](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/lowest-common-ancestor-235.md)
 - [Balanced Binary Tree #110](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/balanced-binary-tree-110.md)
 
+### Binary Tree
+
+3. [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
+4. [Lowest Common Ancestor of a Binary Search Tree #235](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/lowest-common-ancestor-235.md)
+
 ## Algorithm Patterns
 
 Within the problems above there are several patterns that often occur. I plan to categorize each problem such that if you are having problem with a particular pattern you can look for other similar problems that use the same pattern.
