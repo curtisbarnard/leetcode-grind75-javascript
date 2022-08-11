@@ -22,7 +22,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 14. [First Bad Version #278](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/first-bad-version-278.md)
 15. [Ransom Note #383](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/ransom-note-383.md)
 16. [Climbing Stairs #70](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/climbing-stairs-70.md)
-17. Longest Palindrome #409
+17. [Longest Palindrome #409](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/longest-palindrome-409.md)
 18. Reverse Linked List #206
 19. Majority Element #169
 20. Add Binary #67
@@ -127,6 +127,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Linked List Cycle #141](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/linked-list-cycle-141.md)
 - [Ransom Note #383](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/ransom-note-383.md)
 - [Climbing Stairs #70](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/climbing-stairs-70.md)
+- [Longest Palindrome #409](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/longest-palindrome-409.md)
 
 ### Binary Tree
 
@@ -136,8 +137,8 @@ In order to practice with similar data structures I'll be placing each problem i
 
 ### Binary Tree
 
-3. [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
-4. [Lowest Common Ancestor of a Binary Search Tree #235](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/lowest-common-ancestor-235.md)
+- [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
+- [Lowest Common Ancestor of a Binary Search Tree #235](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/lowest-common-ancestor-235.md)
 
 ## Algorithm Patterns
 
