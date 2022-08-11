@@ -23,7 +23,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 15. [Ransom Note #383](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/ransom-note-383.md)
 16. [Climbing Stairs #70](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/climbing-stairs-70.md)
 17. Longest Palindrome #409
-18. Reverse Linked List #206
+18. [Reverse Linked List #206](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/reverse-linked-list-206.md)
 19. Majority Element #169
 20. Add Binary #67
 21. Diameter of Binary Tree #543
@@ -118,6 +118,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Merge Two Sorted Lists #21](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/merge-two-sorted-lists-21.md)
 - [Convert Binary Number in a Linked List to Integer #1290](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/binary-linked-list-1290.md)
 - [Linked List Cycle #141](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/linked-list-cycle-141.md)
+- [Reverse Linked List #206](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/reverse-linked-list-206.md)
 
 ### Hash Table
 
@@ -148,6 +149,7 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Best Time to Buy and Sell Stock #121](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/buy-sell-stock-121.md)
 - [Valid Palindrome #125](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/valid-palindrome-125.md)
 - [Linked List Cycle #141](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/linked-list-cycle-141.md)
+- [Reverse Linked List #206](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/reverse-linked-list-206.md)
 
 ### Binary Search
 
