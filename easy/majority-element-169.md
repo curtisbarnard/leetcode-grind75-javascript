@@ -71,7 +71,7 @@ const majorityElement = function (nums) {
   let count = 1;
 
   for (let i = 1; i < nums.length; i++) {
-    // increment/decrement the count based on if character matches current major character
+    // increment/decrement the count if character matches current major character
     if (nums[i] === major) {
       count++;
     } else {
