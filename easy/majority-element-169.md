@@ -30,16 +30,61 @@ Output: 2
 
 ### Pseudocode
 
+1. Create hashmap
+2. Iterate through nums
+3. Add num to hash map
+4. If any num has count > n/2 return that num
+
 ### Initial Solution
 
-This solution has a time complexity
+This solution has a time complexity O(n) with a space complexity of O(n). Technically space complexity would be O(n/2) as at least half the elements need to be one number.
 
 ```javascript
+const majorityElement = function (nums) {
+  if (nums.length === 1) {
+    return nums[0];
+  }
 
+  const threshold = nums.length / 2;
+  const map = {};
+
+  for (let num of nums) {
+    if (num in map) {
+      map[num]++;
+      if (map[num] > threshold) {
+        return num;
+      }
+    } else {
+      map[num] = 1;
+    }
+  }
+};
 ```
 
 ### Optimized Solution
 
-```javascript
+This revised solution uses the [Boyer-Moore Voting Algorithm](https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/). Time complexity is O(n) as you have to check every element in the array, but space complexity is only O(1). You can see a good explanation here: https://www.youtube.com/watch?v=7pnhv842keE
 
+```javascript
+const majorityElement = function (nums) {
+  let major = nums[0];
+  let count = 1;
+
+  for (let i = 1; i < nums.length; i++) {
+    // increment/decrement the count if character matches current major character
+    if (nums[i] === major) {
+      count++;
+    } else {
+      count--;
+    }
+
+    // Set new major character if the count ever gets down to zero
+    if (count === 0) {
+      major = nums[i];
+      count = 1;
+    }
+  }
+
+  return major;
+};
 ```

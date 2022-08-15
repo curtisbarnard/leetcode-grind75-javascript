@@ -24,7 +24,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 16. [Climbing Stairs #70](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/climbing-stairs-70.md)
 17. [Longest Palindrome #409](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/longest-palindrome-409.md)
 18. [Reverse Linked List #206](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/reverse-linked-list-206.md)
-19. Majority Element #169
+19. [Majority Element #169](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/majority-element-169.md)
 20. Add Binary #67
 21. Diameter of Binary Tree #543
 22. Middle of the Linked List #876
@@ -99,6 +99,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Binary Search #704](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/binary-search-704.md)
 - [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
 - [Maximum Subarray #53](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/maximum-subarray-53.md)
+- [Majority Element #169](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/majority-element-169.md)
 
 ### Queue
 
@@ -129,17 +130,13 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Ransom Note #383](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/ransom-note-383.md)
 - [Climbing Stairs #70](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/climbing-stairs-70.md)
 - [Longest Palindrome #409](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/longest-palindrome-409.md)
+- [Majority Element #169](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/majority-element-169.md)
 
 ### Binary Tree
 
 - [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
 - [Lowest Common Ancestor of a Binary Search Tree #235](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/lowest-common-ancestor-235.md)
 - [Balanced Binary Tree #110](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/balanced-binary-tree-110.md)
-
-### Binary Tree
-
-- [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
-- [Lowest Common Ancestor of a Binary Search Tree #235](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/lowest-common-ancestor-235.md)
 
 ## Algorithm Patterns
 
