@@ -26,7 +26,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 18. [Reverse Linked List #206](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/reverse-linked-list-206.md)
 19. [Majority Element #169](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/majority-element-169.md)
 20. [Add Binary #67](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/add-binary-67.md)
-21. Diameter of Binary Tree #543
+21. [Diameter of Binary Tree #543](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/diameter-binary-tree-543.md)
 22. Middle of the Linked List #876
 23. Maximum Depth of Binary Tree #104
 24. Contains Duplicate #217
@@ -137,6 +137,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
 - [Lowest Common Ancestor of a Binary Search Tree #235](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/lowest-common-ancestor-235.md)
 - [Balanced Binary Tree #110](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/balanced-binary-tree-110.md)
+- [Diameter of Binary Tree #543](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/diameter-binary-tree-543.md)
 
 ## Algorithm Patterns
 
@@ -164,6 +165,7 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
 - [Lowest Common Ancestor of a Binary Search Tree #235](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/lowest-common-ancestor-235.md)
 - [Balanced Binary Tree #110](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/balanced-binary-tree-110.md)
+- [Diameter of Binary Tree #543](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/diameter-binary-tree-543.md)
 
 ### Divide & Conquer
 
