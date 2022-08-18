@@ -29,7 +29,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 21. [Diameter of Binary Tree #543](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/diameter-binary-tree-543.md)
 22. [Middle of the Linked List #876](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/middle-linked-list-876.md)
 23. [Maximum Depth of Binary Tree #104](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/depth-binary-tree-104.md)
-24. Contains Duplicate #217
+24. [Contains Duplicate #217](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/contains-duplicate-217.md)
 
 ### Medium
 
@@ -100,6 +100,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
 - [Maximum Subarray #53](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/maximum-subarray-53.md)
 - [Majority Element #169](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/majority-element-169.md)
+- [Contains Duplicate #217](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/contains-duplicate-217.md)
 
 ### Queue
 
@@ -134,6 +135,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Climbing Stairs #70](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/climbing-stairs-70.md)
 - [Longest Palindrome #409](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/longest-palindrome-409.md)
 - [Majority Element #169](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/majority-element-169.md)
+- [Contains Duplicate #217](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/contains-duplicate-217.md)
 
 ### Binary Tree
 
@@ -154,6 +156,7 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Linked List Cycle #141](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/linked-list-cycle-141.md)
 - [Reverse Linked List #206](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/reverse-linked-list-206.md)
 - [Middle of the Linked List #876](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/middle-linked-list-876.md)
+- [Contains Duplicate #217](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/contains-duplicate-217.md)
 
 ### Binary Search
 
