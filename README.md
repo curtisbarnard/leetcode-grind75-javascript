@@ -35,7 +35,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 
 25. [Maximum Subarray #53](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/maximum-subarray-53.md)
 26. [Insert Interval #57](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/insert-interval-57.md)
-27. 01 Matrix #542
+27. [01 Matrix #542](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/01-matrix-542.md)
 28. [K Closest Points to Origin #973](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/k-closest-origin-973.md)
 29. Longest Substring Without Repeating Characters #3
 30. 3Sum #15
@@ -103,6 +103,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Contains Duplicate #217](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/contains-duplicate-217.md)
 - [K Closest Points to Origin #973](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/k-closest-origin-973.md)
 - [Insert Interval #57](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/insert-interval-57.md)
+- [01 Matrix #542](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/01-matrix-542.md)
 
 ### Queue
 
@@ -168,13 +169,14 @@ Within the problems above there are several patterns that often occur. I plan to
 
 - [First Bad Version #278](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/first-bad-version-278.md)
 
-### Tree Breadth First Search
+### Breadth First Search
 
 - [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
 - [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
 - [Maximum Depth of Binary Tree #104](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/depth-binary-tree-104.md)
+- [01 Matrix #542](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/01-matrix-542.md)
 
-### Tree Depth First Search
+### Depth First Search
 
 - [Invert Binary Tree #226](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/invert-binary-tree-226.md)
 - [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
@@ -190,6 +192,7 @@ Within the problems above there are several patterns that often occur. I plan to
 ### Dynamic Programming
 
 - [Maximum Subarray #53](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/maximum-subarray-53.md)
+- [01 Matrix #542](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/01-matrix-542.md)
 
 ## Attribution
 
