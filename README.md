@@ -37,7 +37,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 26. [Insert Interval #57](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/insert-interval-57.md)
 27. [01 Matrix #542](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/01-matrix-542.md)
 28. [K Closest Points to Origin #973](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/k-closest-origin-973.md)
-29. Longest Substring Without Repeating Characters #3
+29. [Longest Substring Without Repeating Characters #3](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/longest-substring-3.md)
 30. 3Sum #15
 31. Binary Tree Level Order Traversal #102
 32. Clone Graph #133
@@ -139,6 +139,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Longest Palindrome #409](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/longest-palindrome-409.md)
 - [Majority Element #169](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/majority-element-169.md)
 - [Contains Duplicate #217](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/contains-duplicate-217.md)
+- [Longest Substring Without Repeating Characters #3](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/longest-substring-3.md)
 
 ### Binary Tree
 
@@ -164,6 +165,10 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Reverse Linked List #206](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/reverse-linked-list-206.md)
 - [Middle of the Linked List #876](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/middle-linked-list-876.md)
 - [Contains Duplicate #217](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/contains-duplicate-217.md)
+
+### Sliding Window
+
+- [Longest Substring Without Repeating Characters #3](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/longest-substring-3.md)
 
 ### Binary Search
 
