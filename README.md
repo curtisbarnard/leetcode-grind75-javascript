@@ -38,7 +38,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 27. [01 Matrix #542](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/01-matrix-542.md)
 28. [K Closest Points to Origin #973](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/k-closest-origin-973.md)
 29. [Longest Substring Without Repeating Characters #3](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/longest-substring-3.md)
-30. [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3sum-15.md)
+30. [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3Sum-15.md)
 31. Binary Tree Level Order Traversal #102
 32. Clone Graph #133
 33. Evaluate Reverse Polish Notation #150
@@ -104,7 +104,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [K Closest Points to Origin #973](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/k-closest-origin-973.md)
 - [Insert Interval #57](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/insert-interval-57.md)
 - [01 Matrix #542](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/01-matrix-542.md)
-- [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3sum-15.md)
+- [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3Sum-15.md)
 
 ### Queue
 
@@ -141,7 +141,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Majority Element #169](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/majority-element-169.md)
 - [Contains Duplicate #217](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/contains-duplicate-217.md)
 - [Longest Substring Without Repeating Characters #3](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/longest-substring-3.md)
-- [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3sum-15.md)
+- [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3Sum-15.md)
 
 ### Binary Tree
 
@@ -167,7 +167,7 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Reverse Linked List #206](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/reverse-linked-list-206.md)
 - [Middle of the Linked List #876](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/middle-linked-list-876.md)
 - [Contains Duplicate #217](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/contains-duplicate-217.md)
-- [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3sum-15.md)
+- [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3Sum-15.md)
 
 ### Sliding Window
 
