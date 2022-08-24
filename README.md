@@ -43,7 +43,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 32. [Clone Graph #133](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/clone-graph-133.md)
 33. Evaluate Reverse Polish Notation #150
 34. Course Schedule #207
-35. Implement Trie (Prefix Tree) #208
+35. **Implement Trie (Prefix Tree) #208**
 36. Coin Change #322
 37. Product of Array Except Self #238
 38. Min Stack #155
@@ -53,7 +53,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 42. Search in Rotated Sorted Array #33
 43. Combination Sum #39
 44. Permutations #46
-45. Merge Intervals #56
+45. [Merge Intervals #56](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/merge-intervals-56.md)
 46. Lowest Common Ancestor of a Binary Tree #236
 47. Time Based Key-Value Store #981
 48. Accounts Merge #721
@@ -73,7 +73,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 62. Find All Anagrams in a String #438
 63. Minimum Height Trees #310
 64. Task Scheduler #621
-65. LRU Cache #146
+65. **LRU Cache #146**
 66. Kth Smallest Element in a BST #230
 
 ### Hard
@@ -85,7 +85,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 71. Word Ladder #127
 72. Basic Calculator #224
 73. Maximum Profit in Job Scheduling #1235
-74. Merge k Sorted Lists #23
+74. **Merge k Sorted Lists #23**
 75. Largest Rectangle in Histogram #84
 
 ## Data Structures
@@ -105,6 +105,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Insert Interval #57](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/insert-interval-57.md)
 - [01 Matrix #542](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/01-matrix-542.md)
 - [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3Sum-15.md)
+- [Merge Intervals #56](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/merge-intervals-56.md)
 
 ### Queue
 
