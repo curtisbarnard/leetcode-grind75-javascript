@@ -158,6 +158,7 @@ In order to practice with similar data structures I'll be placing each problem i
 ### Graph
 
 - [Clone Graph #133](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/clone-graph-133.md)
+- [Number of Provinces #547](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-provinces-547.md)
 
 ### Heap
 
@@ -193,6 +194,7 @@ Within the problems above there are several patterns that often occur. I plan to
 - [01 Matrix #542](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/01-matrix-542.md)
 - [Binary Tree Level Order Traversal #102](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/binary-tree-level-102.md)
 - [Clone Graph #133](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/clone-graph-133.md)
+- [Number of Provinces #547](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-provinces-547.md)
 
 ### Depth First Search
 
@@ -203,6 +205,7 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Diameter of Binary Tree #543](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/diameter-binary-tree-543.md)
 - [Maximum Depth of Binary Tree #104](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/depth-binary-tree-104.md)
 - [Clone Graph #133](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/clone-graph-133.md)
+- [Number of Provinces #547](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-provinces-547.md)
 
 ### Divide & Conquer
 
