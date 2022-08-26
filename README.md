@@ -107,6 +107,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3Sum-15.md)
 - [Merge Intervals #56](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/merge-intervals-56.md)
 - [Evaluate Reverse Polish Notation #150](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/polish-notation-150.md)
+- [Maximum Units on a Truck #1710](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/max-units-truck-1710.md)
 
 ### Queue
 
