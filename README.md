@@ -108,6 +108,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Merge Intervals #56](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/merge-intervals-56.md)
 - [Evaluate Reverse Polish Notation #150](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/polish-notation-150.md)
 - [Maximum Units on a Truck #1710](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/max-units-truck-1710.md)
+- [Meeting Rooms II](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/meeting-rooms-ii-253.md)
 
 ### Queue
 
@@ -166,6 +167,7 @@ In order to practice with similar data structures I'll be placing each problem i
 ### Heap
 
 - [K Closest Points to Origin #973](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/k-closest-origin-973.md)
+- [Meeting Rooms II](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/meeting-rooms-ii-253.md)
 
 ## Algorithm Patterns
 
@@ -180,6 +182,7 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Middle of the Linked List #876](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/middle-linked-list-876.md)
 - [Contains Duplicate #217](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/contains-duplicate-217.md)
 - [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3Sum-15.md)
+- [Meeting Rooms II](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/meeting-rooms-ii-253.md)
 
 ### Sliding Window
 
