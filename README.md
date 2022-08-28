@@ -42,7 +42,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 31. [Binary Tree Level Order Traversal #102](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/binary-tree-level-102.md)
 32. [Clone Graph #133](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/clone-graph-133.md)
 33. [Evaluate Reverse Polish Notation #150](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/polish-notation-150.md)
-34. Course Schedule #207
+34. [Course Schedule #207](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/course-schedule-207.md)
 35. **Implement Trie (Prefix Tree) #208**
 36. Coin Change #322
 37. Product of Array Except Self #238
@@ -165,6 +165,7 @@ In order to practice with similar data structures I'll be placing each problem i
 
 - [Clone Graph #133](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/clone-graph-133.md)
 - [Number of Provinces #547](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-provinces-547.md)
+- [Course Schedule #207](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/course-schedule-207.md)
 
 ### Heap
 
@@ -203,6 +204,7 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Binary Tree Level Order Traversal #102](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/binary-tree-level-102.md)
 - [Clone Graph #133](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/clone-graph-133.md)
 - [Number of Provinces #547](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-provinces-547.md)
+- [Course Schedule #207](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/course-schedule-207.md)
 
 ### Depth First Search
 
@@ -214,6 +216,7 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Maximum Depth of Binary Tree #104](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/depth-binary-tree-104.md)
 - [Clone Graph #133](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/clone-graph-133.md)
 - [Number of Provinces #547](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-provinces-547.md)
+- [Course Schedule #207](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/course-schedule-207.md)
 
 ### Divide & Conquer
 
