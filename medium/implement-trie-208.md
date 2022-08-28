@@ -130,7 +130,7 @@ Trie.prototype.startsWith = function (prefix) {
 
 ### Optimized Solution
 
-The below is roughly the same as above, just with some clean up to make the code more concise. You can see an explanation for this solution here: https://www.youtube.com/watch?v=oobqoCJlHA0
+The below is roughly the same as above, just with some clean up to make the code more concise. Time is O(n) for insertion and search. Space complexity id O(n) for insertion and O(1) for search.You can see an explanation for this solution here: https://www.youtube.com/watch?v=oobqoCJlHA0
 
 ```javascript
 const Node = function () {
