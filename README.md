@@ -73,7 +73,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 62. Find All Anagrams in a String #438
 63. Minimum Height Trees #310
 64. Task Scheduler #621
-65. **LRU Cache #146**
+65. [LRU Cache #146](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/lru-cache-146.md)
 66. Kth Smallest Element in a BST #230
 
 ### Hard
@@ -134,6 +134,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Linked List Cycle #141](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/linked-list-cycle-141.md)
 - [Reverse Linked List #206](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/reverse-linked-list-206.md)
 - [Middle of the Linked List #876](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/middle-linked-list-876.md)
+- [LRU Cache #146](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/lru-cache-146.md)
 
 ### Hash Table
 
@@ -149,6 +150,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Longest Substring Without Repeating Characters #3](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/longest-substring-3.md)
 - [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3Sum-15.md)
 - [Clone Graph #133](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/clone-graph-133.md)
+- [LRU Cache #146](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/lru-cache-146.md)
 
 ### Binary Tree
 
