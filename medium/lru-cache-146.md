@@ -55,6 +55,18 @@ lRUCache.get(4);    // return 4
 
 You can see an explanation of the solution here: https://www.youtube.com/watch?v=7ABFKPK2hD4
 
+#### Psuedocode
+
+1. Create a Node class for creating a doubly linked list
+2. Create LRUCache class with two dummy nodes (old and recent), the capacity and a hashmap for the cache
+3. Create get method, removes then inserts node from list and returns if it exist, otherwise returns -1
+4. Create put method, removes node from list if exist, updates cache value, inserts into list
+
+- If cache size is too big, removes oldest node from list and deletes from cache
+
+5. Create remove helper method, takes out a node from list and reconnects adjacent pointers
+6. Create insert helper method, inserts node between "recent" dummy node and next node in list
+
 ```javascript
 const Node = function (key, val) {
   this.key = key;
@@ -107,7 +119,7 @@ LRUCache.prototype.put = function (key, value) {
   if (this.cache.size > this.cap) {
     const lru = this.old.next;
     this.remove(lru);
-    this.cache.delete(lru.val);
+    this.cache.delete(lru.key);
   }
 };
 ```
