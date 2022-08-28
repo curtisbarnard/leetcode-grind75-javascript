@@ -66,7 +66,7 @@ trie.search("app");     // return True
 
 ### Initial Solution
 
-I believe this solution has a time complexity of O(n) for insert and search. Space complexity is O(n\*w) where w is the number of word in the Trie.
+I believe this solution has a time complexity of O(n) for insert and search. Space complexity is O(n) for insertion and O(1) for search.
 
 ```javascript
 const Node = function (val, completeWord) {
@@ -130,63 +130,47 @@ Trie.prototype.startsWith = function (prefix) {
 
 ### Optimized Solution
 
-You can see an explanation for this solution here: https://www.youtube.com/watch?v=oobqoCJlHA0
+The below is roughly the same as above, just with some clean up to make the code more concise. You can see an explanation for this solution here: https://www.youtube.com/watch?v=oobqoCJlHA0
 
 ```javascript
-const Node = function (val, completeWord) {
-  this.val = val;
-  this.completeWord = completeWord;
+const Node = function () {
+  this.completeWord = false;
   this.nextLetters = {};
 };
 
 const Trie = function () {
-  this.root = new Node(null, false);
-  return null;
+  this.root = new Node();
 };
 
 Trie.prototype.insert = function (word) {
-  const wordArray = word.split('');
-  let currChar = this.root;
-  while (wordArray.length > 0) {
-    const char = wordArray.shift();
-    if (char in currChar.nextLetters) {
-      currChar = currChar.nextLetters[char];
-    } else {
-      currChar.nextLetters[char] = new Node(char, false);
-      currChar = currChar.nextLetters[char];
+  let cur = this.root;
+  for (char of word) {
+    if (!(char in cur.nextLetters)) {
+      cur.nextLetters[char] = new Node();
     }
+    cur = cur.nextLetters[char];
   }
-  currChar.completeWord = true;
-  return null;
+  cur.completeWord = true;
 };
 
 Trie.prototype.search = function (word) {
-  const wordArray = word.split('');
-  let currChar = this.root;
-  while (wordArray.length > 0) {
-    const char = wordArray.shift();
-    if (char in currChar.nextLetters) {
-      currChar = currChar.nextLetters[char];
-    } else {
+  let cur = this.root;
+  for (char of word) {
+    if (!(char in cur.nextLetters)) {
       return false;
     }
+    cur = cur.nextLetters[char];
   }
-  if (currChar.completeWord) {
-    return true;
-  }
-  return false;
+  return cur.completeWord;
 };
 
 Trie.prototype.startsWith = function (prefix) {
-  const wordArray = prefix.split('');
-  let currChar = this.root;
-  while (wordArray.length > 0) {
-    const char = wordArray.shift();
-    if (char in currChar.nextLetters) {
-      currChar = currChar.nextLetters[char];
-    } else {
+  let cur = this.root;
+  for (char of prefix) {
+    if (!(char in cur.nextLetters)) {
       return false;
     }
+    cur = cur.nextLetters[char];
   }
   return true;
 };
