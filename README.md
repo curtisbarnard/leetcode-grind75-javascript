@@ -41,7 +41,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 30. [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3Sum-15.md)
 31. [Binary Tree Level Order Traversal #102](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/binary-tree-level-102.md)
 32. [Clone Graph #133](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/clone-graph-133.md)
-33. Evaluate Reverse Polish Notation #150
+33. [Evaluate Reverse Polish Notation #150](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/polish-notation-150.md)
 34. Course Schedule #207
 35. **Implement Trie (Prefix Tree) #208**
 36. Coin Change #322
@@ -106,6 +106,9 @@ In order to practice with similar data structures I'll be placing each problem i
 - [01 Matrix #542](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/01-matrix-542.md)
 - [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3Sum-15.md)
 - [Merge Intervals #56](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/merge-intervals-56.md)
+- [Evaluate Reverse Polish Notation #150](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/polish-notation-150.md)
+- [Maximum Units on a Truck #1710](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/max-units-truck-1710.md)
+- [Meeting Rooms II](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/meeting-rooms-ii-253.md)
 
 ### Queue
 
@@ -122,6 +125,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Flood Fill #733](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/flood-fill-733.md)
 - [Implement Queue using Stacks #232](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/implement-queue-stacks-232.md)
 - [Maximum Depth of Binary Tree #104](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/depth-binary-tree-104.md)
+- [Evaluate Reverse Polish Notation #150](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/polish-notation-150.md)
 
 ### Linked Lists
 
@@ -165,6 +169,7 @@ In order to practice with similar data structures I'll be placing each problem i
 ### Heap
 
 - [K Closest Points to Origin #973](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/k-closest-origin-973.md)
+- [Meeting Rooms II](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/meeting-rooms-ii-253.md)
 
 ## Algorithm Patterns
 
@@ -179,6 +184,7 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Middle of the Linked List #876](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/middle-linked-list-876.md)
 - [Contains Duplicate #217](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/contains-duplicate-217.md)
 - [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3Sum-15.md)
+- [Meeting Rooms II](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/meeting-rooms-ii-253.md)
 
 ### Sliding Window
 
