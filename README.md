@@ -43,7 +43,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 32. [Clone Graph #133](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/clone-graph-133.md)
 33. [Evaluate Reverse Polish Notation #150](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/polish-notation-150.md)
 34. [Course Schedule #207](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/course-schedule-207.md)
-35. **Implement Trie (Prefix Tree) #208**
+35. [Implement Trie (Prefix Tree) #208](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/implement-trie-208.md)
 36. Coin Change #322
 37. Product of Array Except Self #238
 38. Min Stack #155
@@ -151,6 +151,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3Sum-15.md)
 - [Clone Graph #133](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/clone-graph-133.md)
 - [LRU Cache #146](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/lru-cache-146.md)
+- [Implement Trie (Prefix Tree) #208](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/implement-trie-208.md)
 
 ### Binary Tree
 
@@ -171,6 +172,10 @@ In order to practice with similar data structures I'll be placing each problem i
 
 - [K Closest Points to Origin #973](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/k-closest-origin-973.md)
 - [Meeting Rooms II](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/meeting-rooms-ii-253.md)
+
+### Trie
+
+- [Implement Trie (Prefix Tree) #208](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/implement-trie-208.md)
 
 ## Algorithm Patterns
 
