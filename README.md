@@ -47,7 +47,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 36. [Coin Change #322](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/coin-change-322.md)
 37. [Product of Array Except Self #238](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/product-of-array-238.md)
 38. [Min Stack #155](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/min-stack-155.md)
-39. Validate Binary Search Tree #98
+39. [Validate Binary Search Tree #98](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/validate-binary-tree-98.md)
 40. Number of Islands #200
 41. Rotting Oranges #994
 42. Search in Rotated Sorted Array #33
@@ -130,6 +130,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Maximum Depth of Binary Tree #104](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/depth-binary-tree-104.md)
 - [Evaluate Reverse Polish Notation #150](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/polish-notation-150.md)
 - [Min Stack #155](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/min-stack-155.md)
+- [Validate Binary Search Tree #98](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/validate-binary-tree-98.md)
 
 ### Linked Lists
 
@@ -165,6 +166,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Diameter of Binary Tree #543](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/diameter-binary-tree-543.md)
 - [Maximum Depth of Binary Tree #104](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/depth-binary-tree-104.md)
 - [Binary Tree Level Order Traversal #102](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/binary-tree-level-102.md)
+- [Validate Binary Search Tree #98](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/validate-binary-tree-98.md)
 
 ### Graph
 
@@ -227,6 +229,7 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Clone Graph #133](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/clone-graph-133.md)
 - [Number of Provinces #547](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-provinces-547.md)
 - [Course Schedule #207](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/course-schedule-207.md)
+- [Validate Binary Search Tree #98](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/validate-binary-tree-98.md)
 
 ### Divide & Conquer
 
