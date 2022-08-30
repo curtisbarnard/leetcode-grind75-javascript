@@ -72,8 +72,27 @@ const productExceptSelf = function (nums) {
 
 ### Optimized Solution
 
-You can see an explanation of this solution here: https://www.youtube.com/watch?v=bNvIQI2wAjk
+This solution has O(n) time complexity and O(1) space complexity. You can see an explanation of this solution here: https://www.youtube.com/watch?v=bNvIQI2wAjk
 
 ```javascript
+const productExceptSelf = function (nums) {
+  // Create initial array and put initial value of 1
+  const output = Array(nums.length).fill(1);
 
+  // Iterate thru nums and add prefixes to output
+  let prefix = 1;
+  for (let i = 0; i < nums.length; i++) {
+    output[i] = prefix;
+    prefix *= nums[i];
+  }
+
+  // Iterate thru nums backwards and calculate total with pre and post fix.
+  let postfix = 1;
+  for (let i = nums.length - 1; i >= 0; i--) {
+    output[i] *= postfix;
+    postfix *= nums[i];
+  }
+
+  return output;
+};
 ```
