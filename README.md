@@ -48,7 +48,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 37. [Product of Array Except Self #238](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/product-of-array-238.md)
 38. [Min Stack #155](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/min-stack-155.md)
 39. [Validate Binary Search Tree #98](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/validate-binary-tree-98.md)
-40. Number of Islands #200
+40. [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
 41. Rotting Oranges #994
 42. Search in Rotated Sorted Array #33
 43. Combination Sum #39
@@ -111,6 +111,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Meeting Rooms II](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/meeting-rooms-ii-253.md)
 - [Coin Change #322](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/coin-change-322.md)
 - [Product of Array Except Self #238](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/product-of-array-238.md)
+- [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
 
 ### Queue
 
@@ -120,6 +121,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Maximum Depth of Binary Tree #104](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/depth-binary-tree-104.md)
 - [Binary Tree Level Order Traversal #102](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/binary-tree-level-102.md)
 - [Coin Change #322](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/coin-change-322.md)
+- [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
 
 ### Stack
 
@@ -131,6 +133,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Evaluate Reverse Polish Notation #150](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/polish-notation-150.md)
 - [Min Stack #155](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/min-stack-155.md)
 - [Validate Binary Search Tree #98](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/validate-binary-tree-98.md)
+- [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
 
 ### Linked Lists
 
@@ -217,6 +220,7 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Number of Provinces #547](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-provinces-547.md)
 - [Course Schedule #207](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/course-schedule-207.md)
 - [Coin Change #322](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/coin-change-322.md)
+- [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
 
 ### Depth First Search
 
@@ -230,6 +234,7 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Number of Provinces #547](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-provinces-547.md)
 - [Course Schedule #207](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/course-schedule-207.md)
 - [Validate Binary Search Tree #98](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/validate-binary-tree-98.md)
+- [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
 
 ### Divide & Conquer
 
