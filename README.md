@@ -45,7 +45,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 34. [Course Schedule #207](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/course-schedule-207.md)
 35. [Implement Trie (Prefix Tree) #208](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/implement-trie-208.md)
 36. [Coin Change #322](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/coin-change-322.md)
-37. Product of Array Except Self #238
+37. [Product of Array Except Self #238](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/product-of-array-238.md)
 38. Min Stack #155
 39. Validate Binary Search Tree #98
 40. Number of Islands #200
@@ -110,6 +110,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Maximum Units on a Truck #1710](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/max-units-truck-1710.md)
 - [Meeting Rooms II](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/meeting-rooms-ii-253.md)
 - [Coin Change #322](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/coin-change-322.md)
+- [Product of Array Except Self #238](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/product-of-array-238.md)
 
 ### Queue
 
