@@ -46,7 +46,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 35. [Implement Trie (Prefix Tree) #208](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/implement-trie-208.md)
 36. [Coin Change #322](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/coin-change-322.md)
 37. [Product of Array Except Self #238](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/product-of-array-238.md)
-38. Min Stack #155
+38. [Min Stack #155](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/min-stack-155.md)
 39. Validate Binary Search Tree #98
 40. Number of Islands #200
 41. Rotting Oranges #994
@@ -129,6 +129,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Implement Queue using Stacks #232](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/implement-queue-stacks-232.md)
 - [Maximum Depth of Binary Tree #104](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/depth-binary-tree-104.md)
 - [Evaluate Reverse Polish Notation #150](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/polish-notation-150.md)
+- [Min Stack #155](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/min-stack-155.md)
 
 ### Linked Lists
 
