@@ -49,7 +49,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 38. [Min Stack #155](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/min-stack-155.md)
 39. [Validate Binary Search Tree #98](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/validate-binary-tree-98.md)
 40. [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
-41. Rotting Oranges #994
+41. [Rotting Oranges #994](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/rotting-oranges-994.md)
 42. Search in Rotated Sorted Array #33
 43. Combination Sum #39
 44. Permutations #46
@@ -112,6 +112,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Coin Change #322](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/coin-change-322.md)
 - [Product of Array Except Self #238](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/product-of-array-238.md)
 - [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
+- [Rotting Oranges #994](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/rotting-oranges-994.md)
 
 ### Queue
 
@@ -122,6 +123,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Binary Tree Level Order Traversal #102](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/binary-tree-level-102.md)
 - [Coin Change #322](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/coin-change-322.md)
 - [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
+- [Rotting Oranges #994](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/rotting-oranges-994.md)
 
 ### Stack
 
@@ -221,6 +223,7 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Course Schedule #207](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/course-schedule-207.md)
 - [Coin Change #322](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/coin-change-322.md)
 - [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
+- [Rotting Oranges #994](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/rotting-oranges-994.md)
 
 ### Depth First Search
 
