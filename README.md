@@ -51,7 +51,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 40. [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
 41. [Rotting Oranges #994](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/rotting-oranges-994.md)
 42. [Search in Rotated Sorted Array #33](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/search-rotated-array-33.md)
-43. Combination Sum #39
+43. [Combination Sum #39](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/combination-sum-39.md)
 44. Permutations #46
 45. [Merge Intervals #56](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/merge-intervals-56.md)
 46. Lowest Common Ancestor of a Binary Tree #236
