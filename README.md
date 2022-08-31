@@ -50,7 +50,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 39. [Validate Binary Search Tree #98](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/validate-binary-tree-98.md)
 40. [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
 41. [Rotting Oranges #994](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/rotting-oranges-994.md)
-42. Search in Rotated Sorted Array #33
+42. [Search in Rotated Sorted Array #33](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/search-rotated-array-33.md)
 43. Combination Sum #39
 44. Permutations #46
 45. [Merge Intervals #56](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/merge-intervals-56.md)
@@ -113,6 +113,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Product of Array Except Self #238](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/product-of-array-238.md)
 - [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
 - [Rotting Oranges #994](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/rotting-oranges-994.md)
+- [Search in Rotated Sorted Array #33](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/search-rotated-array-33.md)
 
 ### Queue
 
@@ -210,6 +211,7 @@ Within the problems above there are several patterns that often occur. I plan to
 ### Binary Search
 
 - [First Bad Version #278](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/first-bad-version-278.md)
+- [Search in Rotated Sorted Array #33](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/search-rotated-array-33.md)
 
 ### Breadth First Search
 
