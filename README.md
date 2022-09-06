@@ -114,6 +114,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
 - [Rotting Oranges #994](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/rotting-oranges-994.md)
 - [Search in Rotated Sorted Array #33](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/search-rotated-array-33.md)
+- [Combination Sum #39](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/combination-sum-39.md)
 
 ### Queue
 
@@ -240,6 +241,7 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Course Schedule #207](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/course-schedule-207.md)
 - [Validate Binary Search Tree #98](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/validate-binary-tree-98.md)
 - [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
+- [Combination Sum #39](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/combination-sum-39.md)
 
 ### Divide & Conquer
 
