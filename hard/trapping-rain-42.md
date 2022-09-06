@@ -82,16 +82,12 @@ const trap = function (height) {
   while (left < right) {
     if (maxL <= maxR) {
       left++;
-      if (maxL - height[left] > 0) {
-        total += maxL - height[left];
-      }
       maxL = Math.max(maxL, height[left]);
+      total += maxL - height[left];
     } else {
       right--;
-      if (maxR - height[right] > 0) {
-        total += maxR - height[right];
-      }
       maxR = Math.max(maxR, height[right]);
+      total += maxR - height[right];
     }
   }
 
