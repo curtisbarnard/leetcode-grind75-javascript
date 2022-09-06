@@ -85,7 +85,7 @@ As I work through this list I figure I would make a GitHub repo with my solution
 71. Word Ladder #127
 72. Basic Calculator #224
 73. Maximum Profit in Job Scheduling #1235
-74. **Merge k Sorted Lists #23**
+74. [Merge k Sorted Lists #23](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/hard/k-sorted-list-23.md)
 75. Largest Rectangle in Histogram #84
 
 ## Data Structures
@@ -148,6 +148,7 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Reverse Linked List #206](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/reverse-linked-list-206.md)
 - [Middle of the Linked List #876](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/middle-linked-list-876.md)
 - [LRU Cache #146](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/lru-cache-146.md)
+- [Merge k Sorted Lists #23](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/hard/k-sorted-list-23.md)
 
 ### Hash Table
 
@@ -248,6 +249,7 @@ Within the problems above there are several patterns that often occur. I plan to
 ### Divide & Conquer
 
 - [Maximum Subarray #53](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/maximum-subarray-53.md)
+- [Merge k Sorted Lists #23](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/hard/k-sorted-list-23.md)
 
 ### Dynamic Programming
 
