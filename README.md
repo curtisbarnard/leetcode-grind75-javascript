@@ -114,6 +114,8 @@ In order to practice with similar data structures I'll be placing each problem i
 - [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
 - [Rotting Oranges #994](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/rotting-oranges-994.md)
 - [Search in Rotated Sorted Array #33](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/search-rotated-array-33.md)
+- [Combination Sum #39](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/combination-sum-39.md)
+- [Trapping Rain Water #42](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/hard/coin-change-322.md)
 
 ### Queue
 
@@ -203,6 +205,7 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Contains Duplicate #217](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/easy/contains-duplicate-217.md)
 - [3Sum #15](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/3Sum-15.md)
 - [Meeting Rooms II](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/meeting-rooms-ii-253.md)
+- [Trapping Rain Water #42](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/hard/coin-change-322.md)
 
 ### Sliding Window
 
@@ -240,6 +243,7 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Course Schedule #207](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/course-schedule-207.md)
 - [Validate Binary Search Tree #98](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/validate-binary-tree-98.md)
 - [Number of Islands #200](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/number-of-islands-200.md)
+- [Combination Sum #39](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/combination-sum-39.md)
 
 ### Divide & Conquer
 
@@ -250,6 +254,7 @@ Within the problems above there are several patterns that often occur. I plan to
 - [Maximum Subarray #53](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/maximum-subarray-53.md)
 - [01 Matrix #542](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/01-matrix-542.md)
 - [Coin Change #322](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/medium/coin-change-322.md)
+- [Trapping Rain Water #42](https://github.com/curtisbarnard/leetcode-grind75-javascript/blob/main/hard/coin-change-322.md)
 
 ## Attribution
 
